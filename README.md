@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-### Hi there 👋, my name is Faruk
+## Hi there 👋, my name is Faruk
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -15,7 +13,7 @@ Skills: SQL/Django / REACT / JS / HTML / CSS
 - 📫 How to reach me: dev.omarfaruk01@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faruk03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md Omar Faruk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Md. Omar Faruk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faruk03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18890505/md-omar-faruk?tab=profile)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faruk03)](https://github.com/ryo-ma/github-profile-trophy)
 
