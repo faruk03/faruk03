@@ -1,7 +1,7 @@
 
 ## Hi there 👋, my name is Omar Faruk
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](image.png)
 
 Loves to write code
 
