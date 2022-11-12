@@ -1,7 +1,8 @@
 
 ## Hi there 👋, my name is Faruk
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](![image](https://user-images.githubusercontent.com/118011559/201456679-f2cafcb7-0fae-4ae3-a462-d56c5f6a0aea.png)
+)
 
 Full Stack Web Developer
 
